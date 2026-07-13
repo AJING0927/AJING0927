@@ -5,5 +5,5 @@
     src="https://count.getloli.com/@ajing0927?theme=miku&amp;padding=7&amp;offset=0&amp;align=top&amp;scale=1&amp;pixelated=1&amp;darkmode=auto"
     alt="Profile Views"
   />
-  <h3 align="center">Thanks for you visiting!</h3>
+  <h3 align="center">Thanks for your visiting!</h3>
 </p>
