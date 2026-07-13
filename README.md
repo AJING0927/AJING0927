@@ -8,7 +8,7 @@
   />
   <h3 align="center">Thanks for your visiting!</h3>
 </p>
-<h3 align="left">🔬 Research Interests</h3>
+<h3 align="left">Research Interests</h3>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Public--key_Cryptography-4B0082?style=flat-square" alt="Public-key Cryptography">
