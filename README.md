@@ -17,7 +17,6 @@
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot">
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/Cybersecurity-111111?style=flat-square&logo=hackthebox&logoColor=9FEF00" alt="Cybersecurity">
   <img src="https://img.shields.io/badge/Public--key_Cryptography-4B0082?style=flat-square" alt="Public-key Cryptography">
