@@ -20,5 +20,5 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/Cybersecurity-111111?style=flat-square&logo=hackthebox&logoColor=9FEF00" alt="Cybersecurity">
-  <img src="https://img.shields.io/badge/Privacy_Protection-0078D4?style=flat-square" alt="Privacy Protection">
+  <img src="https://img.shields.io/badge/Public--key_Cryptography-4B0082?style=flat-square" alt="Public-key Cryptography">
 </p>
